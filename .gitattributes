@@ -1,0 +1,2 @@
+course-4/wikipedia/src/main/resources/wikipedia/wikipedia.dat filter=lfs diff=lfs merge=lfs -text
+course-4/stackoverflow/src/main/resources/stackoverflow/stackoverflow.csv filter=lfs diff=lfs merge=lfs -text
